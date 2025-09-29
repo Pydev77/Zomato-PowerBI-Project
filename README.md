@@ -23,7 +23,7 @@ The dashboard provides actionable insights for Zomato’s stakeholders to evalua
 ## 📂 Repository Structure
 
 ```
-├── datasets/                     # Input datasets (CSV/Excel files)  
+├── datasets/                     # Input datasets (Excel files)  
 ├── Images/                       # Icon images used in the report  
 ├── Zomato PowerBI Dashboard.pbix # Main Power BI project file  
 ├── Zomato Project Screenshot.pdf # Screenshots of all report pages with steps  

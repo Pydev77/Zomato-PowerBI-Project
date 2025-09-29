@@ -53,10 +53,27 @@ The dashboard provides actionable insights for Zomato’s stakeholders to evalua
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview  
 
-Screenshots of the dashboard are available in:
-📄 **Zomato Project Screenshot.pdf**
+Here are some sample pages from the dashboard:  
+
+### 📑 Home Page  
+![Home Page](Images/home_page.png)  
+
+### 🌍 Global Overview  
+![Global Overview](Images/global_overview.png)  
+
+### ⭐ Restaurant Ratings  
+![Restaurant Ratings](Images/ratings_page.png)  
+
+### 💰 Cost Analysis  
+![Cost Analysis](Images/cost_analysis.png)  
+
+### 🍽 Cuisine Insights  
+![Cuisine Insights](Images/cuisine_insights.png)  
+
+For full details, see **Zomato Project Screenshot.pdf** in this repository.  
+
 
 ---
 

